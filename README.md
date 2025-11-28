@@ -92,7 +92,7 @@ Planning Agent → Research Agent → Quality Agent → Synthesis Agent
 **Abdurrahman**  
 - Kaggle: [@nationalist313](https://www.kaggle.com/nationalist313)
 - Email: amnationalist@gmail.com
-
+- LinkedIn: https://www.linkedin.com/in/nationalist313/
 
 ## License
 
