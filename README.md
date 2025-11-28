@@ -96,7 +96,7 @@ Planning Agent → Research Agent → Quality Agent → Synthesis Agent
 
 ## License
 
-Submitted for Google 5-Day AI Agents Intensive Capstone Project (November 2025)
+Submitted for Google/ Kaggle 5-Day AI Agents Intensive Capstone Project (November 2025)
 
 
 ## Acknowledgments
