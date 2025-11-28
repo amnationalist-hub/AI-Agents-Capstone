@@ -2,7 +2,8 @@
 
 **Google 5-Day AI Agents Intensive - Capstone Project**
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](YOUR_KAGGLE_NOTEBOOK_LINK)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/nationalist313/ai-agent-capstone-project-1)
+
 
 
 ## Overview
@@ -45,7 +46,7 @@ ResearchGPT is an enterprise-grade AI agent system that automates comprehensive 
 ### Run on Kaggle
 1. Open the notebook: https://www.kaggle.com/code/nationalist313/capstone-project-1
 2. Add your API key in Kaggle Secrets
-3. Run all cells
+3. Run all cells (from top to bottom, sequentially)
 4. Generate research reports!
 
 
@@ -75,10 +76,9 @@ Planning Agent → Research Agent → Quality Agent → Synthesis Agent
 
 ## Files
 
-- `ResearchGPT_ADK.ipynb` - Main notebook with full implementation
-- `examples/` - Sample generated reports
-- `docs/` - Additional documentation
-- 
+- `ai-agent-capstone-project(1)` - Main notebook with full implementation
+- `README.md` - main documentation file
+- `Demo Video` - https://youtu.be/2UVYnFqCP9Q
 
 ## Competition
 
@@ -107,4 +107,4 @@ Submitted for Google 5-Day AI Agents Intensive Capstone Project (November 2025)
 
 ---
 
-**Built with ❤️ using Google ADK**
+**Built using Google ADK**
