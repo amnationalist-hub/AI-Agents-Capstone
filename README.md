@@ -78,8 +78,7 @@ Planning Agent → Research Agent → Quality Agent → Synthesis Agent
 
 - `ai-agent-capstone-project(1)` - Main notebook with full implementation
 - `README.md` - main documentation file
-- `Demo Video` - https://youtu.be/2UVYnFqCP9Q
-
+- `Demo Video` - https://youtu.be/rJCMd7sWBkc?si=B9qwg4rLbypVpb7r
 ## Competition
 
 **Google 5-Day AI Agents Intensive Capstone Project**  
